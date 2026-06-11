@@ -3,7 +3,7 @@
   <p><i>Construo aplicações ponta a ponta — da interface ao banco de dados — com um olhar de produto e UX.</i></p>
   <p>
     <a href="https://www.linkedin.com/in/lorenzo-osoriogs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7374251046921064448/" target="_blank"><img src="https://img.shields.io/badge/Search%2B-2DD4BF?style=for-the-badge&logoColor=white"></a>
+    <a href="https://github.com/LorenzoOsorioGS/SearchPlus" target="_blank"><img src="https://img.shields.io/badge/Search%2B-2DD4BF?style=for-the-badge&logoColor=white"></a>
   </p>
 </div>
 
@@ -78,7 +78,7 @@ Atuo como **Team Lead** e desenvolvedor, em colaboração com Itallo Arruda e Jo
 
 **Stack do projeto:** Python · Flask · JavaScript · PostgreSQL · Modelos locais de IA (LLaVA + CLIP via Ollama)
 
-🔗 _[ Adicione aqui: link do repositório • demo • landing page ]_
+🔗 **Repositório:** https://github.com/LorenzoOsorioGS/SearchPlus
 
 ---
 
