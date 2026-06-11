@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>Olá, eu sou o Lorenzo 👋</h2>
   <h3>&lt; Desenvolvedor Full-Stack • Front-end &amp; Back-end • Python / JavaScript /&gt;</h3>
   <p><i>Construo aplicações ponta a ponta — da interface ao banco de dados — com um olhar de produto e UX.</i></p>
   <p>
@@ -10,22 +9,22 @@
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
 Tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UNICESUSC, em Florianópolis. Trabalho como **desenvolvedor full-stack**, construindo desde a interface (HTML, CSS, JavaScript) até a lógica de servidor e o banco de dados (Python, Node.js, PostgreSQL). Minha formação em Product Design me dá um diferencial no front-end: entrego interfaces que não são só funcionais, mas pensadas para o usuário.
 
 Atualmente busco oportunidades como **Desenvolvedor Front-end, Back-end ou Full-Stack**.
 
-* 🧑‍💻 Front-end &amp; Back-end — foco em **Python** e **JavaScript**
-* 🎨 Diferencial em UI/UX e Product Design aplicado ao front-end
-* 🔄 Metodologias ágeis (Scrum, MoSCoW) na organização de projetos
-* 💼 Team Lead &amp; dev do projeto **Search+**
-* 📚 ADS — UNICESUSC, Florianópolis, SC
-* 🗣️ Estudante de idiomas (Coreano, Francês e Italiano)
+* Front-end &amp; Back-end — foco em **Python** e **JavaScript**
+* Diferencial em UI/UX e Product Design aplicado ao front-end
+* Metodologias ágeis (Scrum, MoSCoW) na organização de projetos
+* Team Lead &amp; dev do projeto **Search+**
+* ADS — UNICESUSC, Florianópolis, SC
+* Estudante de idiomas (Coreano, Francês e Italiano)
 
 ---
 
-### 🛠 Stack
+### Stack
 
 **Front-end**
 <p>
@@ -51,9 +50,9 @@ Atualmente busco oportunidades como **Desenvolvedor Front-end, Back-end ou Full-
 
 ---
 
-### 🚀 Projeto em destaque
+### Projeto em destaque
 
-#### 🔍 Search+ — Busca de documentos e imagens com IA local
+#### Search+ — Busca de documentos e imagens com IA local
 
 > Sistema de busca por linguagem natural que indexa o conteúdo de arquivos (não o nome) e roda 100% na máquina do usuário, sem nuvem.
 
@@ -84,5 +83,5 @@ Atuo como **Team Lead** e desenvolvedor, em colaboração com Itallo Arruda e Jo
 ---
 
 <div align="center">
-  <sub>📍 Florianópolis, SC · Aberto a oportunidades em desenvolvimento Front-end / Back-end / Full-Stack</sub>
+  <sub>Florianópolis, SC · Aberto a oportunidades em desenvolvimento Front-end / Back-end / Full-Stack</sub>
 </div>
